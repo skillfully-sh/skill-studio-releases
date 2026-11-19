@@ -6,7 +6,12 @@ This repository hosts official Skill Studio installers, release notes, and updat
 
 ## Downloads
 
-Installers will appear on the [Releases page](https://github.com/skillfully-sh/skill-studio-releases/releases). Download the package for your operating system and processor. Release notes identify supported platforms and any installation limitations.
+Get the latest installer from the [Releases page](https://github.com/skillfully-sh/skill-studio-releases/releases/latest):
+
+- **Mac:** Apple Silicon, macOS 13 or later — download the `.dmg`.
+- **Windows:** x64 PCs — download the `.exe`.
+
+The current Mac download is ad-hoc signed and is not notarized. The Windows installer does not yet have a trusted publisher certificate. Your operating system may ask for approval during the first installation; see the release notes. Updater packages are separately signed and verified by Skill Studio.
 
 ## Updates
 
